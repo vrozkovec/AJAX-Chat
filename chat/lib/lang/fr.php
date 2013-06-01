@@ -10,7 +10,7 @@
  */
 
 $lang = array();
-$lang['title'] = 'AJAX Chat';
+$lang['title'] = 'Komuso.cz online chat';
 $lang['userName'] = 'Nom d’utilisateur';
 $lang['password'] = 'Mot de passe';
 $lang['login'] = 'Connexion';
