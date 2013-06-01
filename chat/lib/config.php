@@ -55,9 +55,10 @@ $config['langNames'] = array(
 );
 
 // Available styles:
-$config['styleAvailable'] = array('beige','black','grey','Oxygen','Lithium','Sulfur','Cobalt','Mercury','Uranium','Plum','prosilver','subblack2','subSilver','Core','MyBB','vBulletin');
+// $config['styleAvailable'] = array('beige','black','grey','Oxygen','Lithium','Sulfur','Cobalt','Mercury','Uranium','Plum','prosilver','subblack2','subSilver','Core','MyBB','vBulletin');
+$config['styleAvailable'] = array('MyBB');
 // Default style:
-$config['styleDefault'] = 'prosilver';
+$config['styleDefault'] = 'MyBB';
 
 // The encoding used for the XHTML content:
 $config['contentEncoding'] = 'UTF-8';

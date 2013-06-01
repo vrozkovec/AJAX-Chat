@@ -14,7 +14,7 @@
 	height:100%;
 }
 #loginContent #loginHeadlineContainer {
-	margin: 100px 100px 0 100px;
+	margin: 0 100px 0 100px;
 }
 #loginContent #loginFormContainer, #loginContent #errorContainer {
 	margin: 0 100px;
